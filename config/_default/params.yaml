@@ -103,9 +103,9 @@ page:
   fraction: true
   fontawesome: true
   linkToMarkdown: true
-  linkToSource: true
-  linkToEdit: true
-  linkToReport: true
+  linkToSource: "https://github.com/HSGamer/Blog/blob/main/{path}"
+  linkToEdit: "https://github.com/HSGamer/Blog/edit/main/{path}"
+  linkToReport: "https://github.com/HSGamer/Blog/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/HSGamer/Blog/blob/main/{path}|"
   rssFullText: false
   pageStyle: "normal"
   seriesNavigation: true
