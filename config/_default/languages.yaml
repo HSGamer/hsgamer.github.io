@@ -1,0 +1,57 @@
+en:
+  weight: 1
+  languageCode: "en"
+  languageName: "English"
+vi:
+  weight: 2
+  languageCode: "vi"
+  languageName: "Tiếng Việt"
+  title: "Blog của HSGamer"
+  menu:
+    main:
+      - identifier: "posts"
+        name: "Bài Viết"
+        url: "/posts/"
+        title: ""
+        weight: 1
+      - identifier: "tags"
+        name: "Nhãn"
+        url: "/tags/"
+        title: ""
+        weight: 2
+      - identifier: "categories"
+        name: "Thể Loại"
+        url: "/categories/"
+        title: ""
+        weight: 3
+  params:
+    title: "Blog của HSGamer"
+    description: "Blog của tôi để nói về những thứ thú vị trong Lập trình, Trò Chơi, Công Nghệ, Cuộc Sống, v.v"
+    app:
+      title: "Blog của HSGamer"
+      noFavicon: false
+      svgFavicon: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+      iconColor: "#5bbad5"
+      tileColor: "#da532c"
+    header:
+      desktopMode: "fixed"
+      mobileMode: "auto"
+      themeChangeMode: "select"
+      title:
+        logo: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+        name: "Blog của HSGamer"
+    home:
+      rss: 10
+      profile:
+        enable: true
+        gravatarEmail: ""
+        avatarURL: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+        title: "Blog của HSGamer"
+        subtitle: "Blog của tôi để nói về những thứ thú vị trong Lập trình, Trò Chơi, Công Nghệ, Cuộc Sống, v.v"
+        typeit: true
+        social: true
+        disclaimer: ""
+      posts:
+        enable: true
+        paginate: 6
+        defaultHiddenFromHomePage: false

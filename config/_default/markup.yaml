@@ -1,0 +1,22 @@
+highlight:
+  codeFences: true
+  guessSyntax: true
+  lineNos: true
+  lineNumbersInTable: true
+  noClasses: false
+
+goldmark:
+  extensions:
+    definitionList: true
+    footnote: true
+    linkify: true
+    strikethrough: true
+    table: true
+    taskList: true
+    typographer: true
+  renderer:
+    unsafe: true
+
+tableOfContents:
+  startLevel: 2
+  endLevel: 6

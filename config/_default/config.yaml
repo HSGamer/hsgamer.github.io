@@ -1,0 +1,5 @@
+baseURL: "http://example.org/"
+defaultContentLanguage: "en"
+languageCode: "en"
+title: "HSGamer's Blog"
+theme: "DoIt"
