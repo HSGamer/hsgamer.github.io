@@ -3,8 +3,8 @@ title: "HSGamer's Blog"
 description: "My blog of interests in various topics. Development, Technology, Game, Life, etc."
 keywords: ["HSGamer", "Blog"]
 defaultTheme: "auto"
-gitRepo: ""
-fingerprint: ""
+gitRepo: "https://github.com/HSGamer/Blog"
+fingerprint: "sha256"
 dateFormat: "2006-01-02"
 images: ["https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"]
 enablePWA: false
@@ -48,7 +48,7 @@ footer:
   enable: true
   custom: ''
   hugo: true
-  hostedOn: ''
+  hostedOn: '<a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>'
   copyright: true
   author: true
   license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
@@ -90,8 +90,9 @@ social:
   GitHub: "HSGamer"
   Facebook: "huynhquang.tien.33"
   Youtubechannel: "UCT4YTVtGkICHOUcrJN87rgw"
-  Patreon: ""
-  Steam: ""
+  Patreon: "hsgamer"
+  Steam: "huynhqtienvtag"
+  Paypal: "HSGamer1234"
 
 page:
   hiddenFromHomePage: false
@@ -102,9 +103,9 @@ page:
   fraction: true
   fontawesome: true
   linkToMarkdown: true
-  linkToSource: false
-  linkToEdit: false
-  linkToReport: false
+  linkToSource: true
+  linkToEdit: true
+  linkToReport: true
   rssFullText: false
   pageStyle: "normal"
   seriesNavigation: true
@@ -142,19 +143,19 @@ page:
     Twitter: true
     Facebook: true
   comment:
-    enable: false
+    enable: true
     giscus:
-      enable: false
-      dataRepo: ""
-      dataRepoId: ""
-      dataCategory: ""
-      dataCategoryId: ""
+      enable: true
+      dataRepo: "HSGamer/Blog"
+      dataRepoId: "R_kgDOIdDFUA"
+      dataCategory: "Post Comments"
+      dataCategoryId: "DIC_kwDOIdDFUM4CSnWy"
       dataMapping: "pathname"
       dataReactionsEnabled: "1"
       dataEmitMetadata: "0"
       dataInputPosition: "bottom"
       lightTheme: "light"
-      darkTheme: "dark"
+      darkTheme: "transparent_dark"
       dataLang: "en"
   seo:
     images: []
@@ -166,10 +167,10 @@ page:
     count: 5
 
 sponsor:
-  enable: false
+  enable: true
   bio: "If you find this post helpful, please consider sponsoring."
-  link: "https://www.buymeacoffee.com" # The link to your sponsor page
-  custom: "" # Custom HTML button
+  link: "https://paypal.me/HSGamer1234"
+  custom: ""
 
 typeit:
   speed: 100

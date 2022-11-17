@@ -55,3 +55,74 @@ vi:
         enable: true
         paginate: 6
         defaultHiddenFromHomePage: false
+    page:
+      hiddenFromHomePage: false
+      hiddenFromSearch: false
+      twemoji: false
+      lightgallery: false
+      ruby: true
+      fraction: true
+      fontawesome: true
+      linkToMarkdown: true
+      linkToSource: true
+      linkToEdit: true
+      linkToReport: true
+      rssFullText: false
+      pageStyle: "normal"
+      seriesNavigation: true
+      outdatedArticleReminder:
+        enable: false
+        reminder: 90
+        warning: 180
+      toc:
+        enable: true
+        keepStatic: true
+        auto: true
+      math:
+        enable: true
+        blockLeftDelimiter: ""
+        blockRightDelimiter: ""
+        inlineLeftDelimiter: ""
+        inlineRightDelimiter: ""
+        copyTex: true
+        mhchem: true
+      code:
+        copy: true
+        maxShownLines: 10
+      table:
+        sort: true
+      mapbox:
+        accessToken: ""
+        lightStyle: "mapbox://styles/mapbox/light-v9"
+        darkStyle: "mapbox://styles/mapbox/dark-v9"
+        navigation: true
+        geolocate: true
+        scale: true
+        fullscreen: true
+      share:
+        enable: true
+        Twitter: true
+        Facebook: true
+      comment:
+        enable: true
+        giscus:
+          enable: true
+          dataRepo: "HSGamer/Blog"
+          dataRepoId: "R_kgDOIdDFUA"
+          dataCategory: "Post Comments"
+          dataCategoryId: "DIC_kwDOIdDFUM4CSnWy"
+          dataMapping: "pathname"
+          dataReactionsEnabled: "1"
+          dataEmitMetadata: "0"
+          dataInputPosition: "bottom"
+          lightTheme: "light"
+          darkTheme: "transparent_dark"
+          dataLang: "vi"
+      seo:
+        images: []
+        publisher:
+          name: ""
+          logoUrl: ""
+      related:
+        enable: true
+        count: 5
