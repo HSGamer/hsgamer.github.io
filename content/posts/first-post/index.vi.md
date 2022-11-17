@@ -9,6 +9,11 @@ categories:
     - miscellaneous
 toc:
   enable: false
+math:
+  enable: false
+ruby: false
+fraction: false
+fontawesome: false
 ---
 
 Chào mừng đến với Blog của tôi
