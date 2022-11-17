@@ -1,6 +1,5 @@
-baseURL: "https://hsgamer.me/Blog/"
+baseURL: "https://hsgamer.github.io/"
 defaultContentLanguage: "en"
 languageCode: "en"
 title: "HSGamer's Blog"
 theme: "DoIt"
-canonifyURLs: true

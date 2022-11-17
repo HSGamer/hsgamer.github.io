@@ -30,7 +30,7 @@ vi:
     app:
       title: "Blog của HSGamer"
       noFavicon: false
-      svgFavicon: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+      svgFavicon: "/logo.svg"
       iconColor: "#5bbad5"
       tileColor: "#da532c"
     header:
@@ -38,14 +38,14 @@ vi:
       mobileMode: "auto"
       themeChangeMode: "select"
       title:
-        logo: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+        logo: "/logo.svg"
         name: "Blog của HSGamer"
     home:
       rss: 10
       profile:
         enable: true
         gravatarEmail: ""
-        avatarURL: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+        avatarURL: "/logo.svg"
         title: "Blog của HSGamer"
         subtitle: "Blog của tôi để nói về những thứ thú vị trong Lập trình, Trò Chơi, Công Nghệ, Cuộc Sống, v.v"
         typeit: true

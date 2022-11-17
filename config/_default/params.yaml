@@ -6,14 +6,14 @@ defaultTheme: "auto"
 gitRepo: "https://github.com/HSGamer/Blog"
 fingerprint: "sha256"
 dateFormat: "2006-01-02"
-images: ["https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"]
+images: ["/logo.svg"]
 enablePWA: false
 license: '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 app:
   title: "HSGamer's Blog"
   noFavicon: false
-  svgFavicon: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+  svgFavicon: "/logo.svg"
   iconColor: "#5bbad5"
   tileColor: "#da532c"
 
@@ -41,7 +41,7 @@ header:
   mobileMode: "auto"
   themeChangeMode: "select"
   title:
-    logo: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+    logo: "/logo.svg"
     name: "HSGamer's Blog"
 
 footer:
@@ -73,7 +73,7 @@ home:
   profile:
     enable: true
     gravatarEmail: ""
-    avatarURL: "https://raw.githubusercontent.com/HSGamer/hsgamer.github.io/main/images/logo.svg"
+    avatarURL: "/logo.svg"
     title: "HSGamer's Blog"
     subtitle: "My blog of interests in various topics. Development, Technology, Game, Life, etc."
     typeit: true
