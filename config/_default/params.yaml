@@ -4,7 +4,7 @@ description: "My blog of interests in various topics. Development, Technology, G
 keywords: ["HSGamer", "Blog"]
 defaultTheme: "auto"
 gitRepo: "https://github.com/HSGamer/hsgamer.github.io"
-fingerprint: "sha256"
+fingerprint: ""
 dateFormat: "2006-01-02"
 images: ["/logo.svg"]
 enablePWA: true
