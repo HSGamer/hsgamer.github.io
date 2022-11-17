@@ -1,6 +1,7 @@
 {
     "name": "HSGamer's Blog",
     "short_name": "HSGamer's Blog",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
