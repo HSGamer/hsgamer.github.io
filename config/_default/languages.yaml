@@ -24,6 +24,11 @@ vi:
         url: "/categories/"
         title: ""
         weight: 3
+      - identifier: "series"
+        name: "Series"
+        url: "/series/"
+        title: ""
+        weight: 4
   params:
     title: "Blog của HSGamer"
     description: "Blog của tôi để nói về những thứ thú vị trong Lập trình, Trò Chơi, Công Nghệ, Cuộc Sống, v.v"
