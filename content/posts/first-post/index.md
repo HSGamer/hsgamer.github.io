@@ -22,6 +22,6 @@ This is where I'll express my interests in various topics. I'll go from casual t
 
 This is purely to create a formal way to communicate my thoughts and receive opinions from you guys to make some kinds of constructive debate.
 
-Also, this website is a part of my open-source project that can be found in [my GitHub repository](https://github.com/HSGamer/Blog). Therefore, the content here is transparent and open to modify.
+Also, this website is a part of my open-source project that can be found in [my GitHub repository](https://github.com/HSGamer/hsgamer.github.io). Therefore, the content here is transparent and open to modify.
 
 See you soon in future posts, and have fun.
