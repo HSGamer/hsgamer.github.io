@@ -3,7 +3,7 @@ title: "HSGamer's Blog"
 description: "My blog of interests in various topics. Development, Technology, Game, Life, etc."
 keywords: ["HSGamer", "Blog"]
 defaultTheme: "auto"
-gitRepo: "https://github.com/HSGamer/Blog"
+gitRepo: "https://github.com/HSGamer/hsgamer.github.io"
 fingerprint: "sha256"
 dateFormat: "2006-01-02"
 images: ["/logo.svg"]
@@ -103,9 +103,9 @@ page:
   fraction: true
   fontawesome: true
   linkToMarkdown: true
-  linkToSource: "https://github.com/HSGamer/Blog/blob/main/content/{path}"
-  linkToEdit: "https://github.com/HSGamer/Blog/edit/main/content/{path}"
-  linkToReport: "https://github.com/HSGamer/Blog/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/HSGamer/Blog/blob/main/content/{path}|"
+  linkToSource: "https://github.com/HSGamer/hsgamer.github.io/blob/main/content/{path}"
+  linkToEdit: "https://github.com/HSGamer/hsgamer.github.io/edit/main/content/{path}"
+  linkToReport: "https://github.com/HSGamer/hsgamer.github.io/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/HSGamer/hsgamer.github.io/blob/main/content/{path}|"
   rssFullText: false
   pageStyle: "normal"
   seriesNavigation: true
