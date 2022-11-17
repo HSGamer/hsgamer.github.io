@@ -1,2 +1,3 @@
-# Blog
-My personal Blog
+# hsgamer.github.io
+
+My personal website with Blog
