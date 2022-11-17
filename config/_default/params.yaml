@@ -167,7 +167,7 @@ page:
     count: 5
 
 sponsor:
-  enable: true
+  enable: false
   bio: "If you find this post helpful, please consider sponsoring."
   link: "https://paypal.me/HSGamer1234"
   custom: ""
