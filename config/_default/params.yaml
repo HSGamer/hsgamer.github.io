@@ -146,7 +146,7 @@ page:
     enable: true
     giscus:
       enable: true
-      dataRepo: "HSGamer/Blog"
+      dataRepo: "HSGamer/hsgamer.github.io"
       dataRepoId: "R_kgDOIdDFUA"
       dataCategory: "Post Comments"
       dataCategoryId: "DIC_kwDOIdDFUM4CSnWy"
