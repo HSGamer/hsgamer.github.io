@@ -46,7 +46,7 @@ header:
 
 footer:
   enable: true
-  custom: ''
+  custom: '<a title="Source Code" href="https://github.com/HSGamer/hsgamer.github.io" target="_blank" rel="noopener noreffer">https://github.com/HSGamer/hsgamer.github.io</a>'
   hugo: true
   hostedOn: '<a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>'
   copyright: true
