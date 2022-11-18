@@ -1,7 +1,7 @@
 version: "0.2.X"
 title: "HSGamer's Blog"
 description: "My blog of interests in various topics. Development, Technology, Game, Life, etc."
-keywords: ["HSGamer", "Blog"]
+keywords: ["HSGamer", "Blog", "Development", "Programming", "Game", "Technology", "Lifestyle", "Life", "Style", "GitHub", "Self", "Hosted"]
 defaultTheme: "auto"
 gitRepo: "https://github.com/HSGamer/hsgamer.github.io"
 fingerprint: ""
