@@ -99,26 +99,26 @@ page:
   hiddenFromSearch: false
   twemoji: false
   lightgallery: false
-  ruby: true
-  fraction: true
-  fontawesome: true
+  ruby: false
+  fraction: false
+  fontawesome: false
   linkToMarkdown: false
   linkToSource: "https://github.com/HSGamer/hsgamer.github.io/blob/main/content/{path}"
   linkToEdit: "https://github.com/HSGamer/hsgamer.github.io/edit/main/content/{path}"
   linkToReport: "https://github.com/HSGamer/hsgamer.github.io/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/HSGamer/hsgamer.github.io/blob/main/content/{path}|"
   rssFullText: false
   pageStyle: "normal"
-  seriesNavigation: true
+  seriesNavigation: false
   outdatedArticleReminder:
     enable: false
     reminder: 90
     warning: 180
   toc:
-    enable: true
+    enable: false
     keepStatic: true
     auto: true
   math:
-    enable: true
+    enable: false
     blockLeftDelimiter: ""
     blockRightDelimiter: ""
     inlineLeftDelimiter: ""
@@ -129,7 +129,7 @@ page:
     copy: true
     maxShownLines: 10
   table:
-    sort: true
+    sort: false
   mapbox:
     accessToken: ""
     lightStyle: "mapbox://styles/mapbox/light-v9"
@@ -139,11 +139,11 @@ page:
     scale: true
     fullscreen: true
   share:
-    enable: true
+    enable: false
     Twitter: true
     Facebook: true
   comment:
-    enable: true
+    enable: false
     giscus:
       enable: true
       dataRepo: "HSGamer/hsgamer.github.io"
@@ -163,7 +163,7 @@ page:
       name: ""
       logoUrl: ""
   related:
-    enable: true
+    enable: false
     count: 5
 
 sponsor:

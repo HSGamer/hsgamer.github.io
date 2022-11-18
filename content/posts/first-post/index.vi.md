@@ -7,13 +7,8 @@ authors:
     - HSGamer
 categories:
     - miscellaneous
-toc:
-  enable: false
-math:
-  enable: false
-ruby: false
-fraction: false
-fontawesome: false
+comment:
+  enable: true
 ---
 
 Chào mừng đến với Blog của tôi
