@@ -105,7 +105,7 @@ page:
   linkToMarkdown: false
   linkToSource: "https://github.com/HSGamer/hsgamer.github.io/blob/main/content/{path}"
   linkToEdit: "https://github.com/HSGamer/hsgamer.github.io/edit/main/content/{path}"
-  linkToReport: "https://github.com/HSGamer/hsgamer.github.io/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/HSGamer/hsgamer.github.io/blob/main/content/{path}|"
+  linkToReport: "https://github.com/HSGamer/hsgamer.github.io/issues/new?template=post_report.yaml&labels=post&title=[POST]%20{title}&url={url}&source=https://github.com/HSGamer/hsgamer.github.io/blob/main/content/{path}"
   rssFullText: false
   pageStyle: "normal"
   seriesNavigation: false
