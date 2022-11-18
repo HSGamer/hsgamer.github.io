@@ -179,5 +179,5 @@ typeit:
   duration: -1
 
 seo:
-  image: ""
+  image: "/logo.svg"
   thumbnailUrl: ""

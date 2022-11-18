@@ -8,6 +8,8 @@ categories:
     - miscellaneous
 comment:
   enable: true
+share:
+  enable: true
 ---
 
 Welcome to my blog.
