@@ -29,6 +29,11 @@ vi:
         url: "/series/"
         title: ""
         weight: 4
+      - identifier: "projects"
+        name: "Dự Án"
+        url: "/projects/"
+        title: ""
+        weight: 5
   params:
     title: "Blog của HSGamer"
     description: "Blog của tôi để nói về những thứ thú vị trong Lập trình, Trò Chơi, Công Nghệ, Cuộc Sống, v.v"

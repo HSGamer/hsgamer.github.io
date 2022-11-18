@@ -19,3 +19,8 @@ main:
     url: "/series/"
     title: ""
     weight: 4
+  - identifier: "projects"
+    name: "Projects"
+    url: "/projects/"
+    title: ""
+    weight: 5

@@ -1,8 +1,7 @@
 ---
 title: Bài Viết Đầu Tiên
 description: Chào mừng đến với Blog của tôi
-date: 2022-11-17 16:00:00+0700
-lastmod: 2022-11-17 16:00:00+0700
+date: 2022-11-17 16:00:00
 authors:
     - HSGamer
 categories:
