@@ -1,0 +1,29 @@
+name: Post Report
+description: Report issues on a post
+title: "[POST] <title>"
+labels: [post] 
+body:
+- type: input
+  id: url
+  attributes:
+    label: URL
+    description: "The URL of the post"
+    placeholder: "Example: https://hsgamer.me/posts/first-post/"
+  validations:
+    required: true
+- type: input
+  id: source
+  attributes:
+    label: Source
+    description: "The source of the post"
+    placeholder: "Example: https://github.com/HSGamer/hsgamer.github.io/blob/main/content/posts/first-post/index.md"
+  validations:
+    required: true
+- type: textarea
+  id: content
+  attributes:
+    label: Content
+    description: "What seems to be the problem with the post?"
+    render: bash
+  validations:
+    required: true
