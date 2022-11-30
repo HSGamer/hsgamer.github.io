@@ -34,7 +34,7 @@ However, not just my services, others from my fellow developers and service prov
 07:00 - User: Oh right, I forgot that. It works now. Thanks
 ```
 
-The problem is that the **Support** might be either offline or "AFK" on the user's first message, and it took `5 hours` for him to see that messages. However, he didn't know how the **User** had done to the project that caused the feature to `doesn't work`, so he guessed the **User** did something wrong in the config and asked the **User** to give him the file. Then, he had to wait for `1 more hour` to receive the needed file, just to see that the **User** didn't enable the feature. In summary, it took him `6 hours` only to get the necessary details to understand the **User**'s problem.
+The problem is that the **Support** might be either offline or "AFK" on the **User**'s first message, and it took `5 hours` for him to see that messages. However, he didn't know how the **User** had done to the project that caused the feature to `doesn't work`, so he guessed the **User** did something wrong in the config and asked the **User** to give him the file. Then, he had to wait for `1 more hour` to receive the needed file, just to see that the **User** didn't enable the feature. In summary, it took him `6 hours` only to get the necessary details to understand the **User**'s problem.
 
 # Do
 
