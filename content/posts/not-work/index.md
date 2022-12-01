@@ -65,3 +65,4 @@ Here are possible solutions to ultimately solve the issue:
 
 * [no hello](https://nohello.net/)
 * [The XY Problem](https://xyproblem.info/)
+* [Don't Ask To Ask](https://dontasktoask.com/)
