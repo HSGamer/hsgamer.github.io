@@ -65,3 +65,4 @@ Có vài trường hợp mà **Người Dùng** không biết gửi tệp gì ch
 
 * [no hello](https://nohello.net/)
 * [The XY Problem](https://xyproblem.info/)
+* [Don't Ask To Ask](https://dontasktoask.com/)
