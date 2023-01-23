@@ -34,7 +34,7 @@ Tuy nhiên, không chỉ dịch vụ của tôi, còn các dịch vụ của đ�
 07:00 - Người Dùng: Phải rồi ha. Tôi quên. Hoạt động được rồi. Cảm ơn nhé.
 ```
 
-Vấn đề ở đây là **Hỗ Trợ** có thể đang ngoại tuyến hoặc không có trên kênh khi **Người Dùng** nhắn tin đầu tiên, và mất `5 tiếng` để thấy tin đó. Nhưng họ không biết **Người Dùng** làm gì với dự án mà làm cho tính năng `không hoạt động`, nên họ đoán **Người Dùng** đã làm gì sai ở tệp cài đặt và yêu cầu **Người Dùng** gửi họ tệp tin đó. Rồi họ phải chờ thêm `1 tiếng` nữa để nhận được tệp tin, chỉ để thấy rằng **Người Dùng** quên bật tính năng đó. Tóm lại, **Hỗ Trợ** mất `6 hours` chỉ để hiểu vấn đề của **Người Dùng**.
+Vấn đề ở đây là **Hỗ Trợ** có thể đang ngoại tuyến hoặc không có trên kênh khi **Người Dùng** nhắn tin đầu tiên, và mất `5 tiếng` để thấy tin đó. Nhưng họ không biết **Người Dùng** làm gì với dự án mà làm cho tính năng `không hoạt động`, nên họ đoán **Người Dùng** đã làm gì sai ở tệp cài đặt và yêu cầu **Người Dùng** gửi họ tệp tin đó. Rồi họ phải chờ thêm `1 tiếng` nữa để nhận được tệp tin, chỉ để thấy rằng **Người Dùng** quên bật tính năng đó. Tóm lại, **Hỗ Trợ** mất `6 tiếng` chỉ để hiểu vấn đề của **Người Dùng**.
 
 # Hãy
 
@@ -65,3 +65,4 @@ Có vài trường hợp mà **Người Dùng** không biết gửi tệp gì ch
 
 * [no hello](https://nohello.net/)
 * [The XY Problem](https://xyproblem.info/)
+* [Don't Ask To Ask](https://dontasktoask.com/)

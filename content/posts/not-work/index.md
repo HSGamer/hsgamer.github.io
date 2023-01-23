@@ -34,7 +34,7 @@ However, not just my services, others from my fellow developers and service prov
 07:00 - User: Oh right, I forgot that. It works now. Thanks
 ```
 
-The problem is that the **Support** might be either offline or "AFK" on the user's first message, and it took `5 hours` for him to see that messages. However, he didn't know how the **User** had done to the project that caused the feature to `doesn't work`, so he guessed the **User** did something wrong in the config and asked the **User** to give him the file. Then, he had to wait for `1 more hour` to receive the needed file, just to see that the **User** didn't enable the feature. In summary, it took him `6 hours` only to get the necessary details to understand the **User**'s problem.
+The problem is that the **Support** might be either offline or "AFK" on the **User**'s first message, and it took `5 hours` for him to see that messages. However, he didn't know how the **User** had done to the project that caused the feature to `doesn't work`, so he guessed the **User** did something wrong in the config and asked the **User** to give him the file. Then, he had to wait for `1 more hour` to receive the needed file, just to see that the **User** didn't enable the feature. In summary, it took him `6 hours` only to get the necessary details to understand the **User**'s problem.
 
 # Do
 
@@ -55,13 +55,14 @@ Here are possible solutions to ultimately solve the issue:
 
 * **Provide all details**: Give all Config files, Logs, Stacktraces, Reports, Screenshots, Showcase, Demos, etc. Anything that is related to the project.
   * This might not be a good solution as the **User** has to provide sensitive information as parts of the details.
-  * Because of security reasons, this is ultimately dangerous for projects / services that provide community support (forums, JIRA, fanpages, etc.). However, your project would be fine if it does not contain or store private data.
+  * Because of security reasons, this is ultimately dangerous for projects / services that provide community support (forums, JIRA, fanpages, etc.). However, your project would be fine if it did not contain or store private data.
 * **Bug template / Guideline**: Provide some kinds of forms / templates or Create a tutorial to teach the **User** how to report issues.
   * This is more common in big community projects.
-  * The **Support** can specify which files the **User** has to provide. That means the sensitive information can be avoidable.
+  * The **Support** can specify which files the **User** has to provide. That means sensitive information can be avoidable.
   * The **Support** can also teach the **User** how to censor information in case parts of the private data is important for the investigation.
 
 # Related
 
 * [no hello](https://nohello.net/)
 * [The XY Problem](https://xyproblem.info/)
+* [Don't Ask To Ask](https://dontasktoask.com/)
