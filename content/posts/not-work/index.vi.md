@@ -26,24 +26,27 @@ Tuy nhiên, không chỉ dịch vụ của tôi, còn các dịch vụ của đ�
 
 # Đừng
 
-```txt
-00:00 - Người Dùng: Xin chào. Tính năng này không hoạt động đối với tôi. Có cách nào để sửa không?
-05:00 - Hỗ Trợ: Hmmmm... Lạ thật đấy, tôi không thấy lỗi đó trên máy của tôi. Bạn có thể gửi tôi tệp cài đặt của bạn được không?
-06:00 - Người Dùng: Đây là tệp cài đặt của tôi: config.yml
-06:30 - Hỗ Trợ: Bạn quên chỉnh `enabled` thành `true`
-07:00 - Người Dùng: Phải rồi ha. Tôi quên. Hoạt động được rồi. Cảm ơn nhé.
-```
+> _00:00_ - **Người Dùng**: Xin chào. Tính năng này không hoạt động đối với tôi. Có cách nào để sửa không?
+
+> _05:00_ - **Hỗ Trợ**: Hmmmm... Lạ thật đấy, tôi không thấy lỗi đó trên máy của tôi. Bạn có thể gửi tôi tệp cài đặt của bạn được không?
+
+> _06:00_ - **Người Dùng**: Đây là tệp cài đặt của tôi: config.yml
+
+> _06:30_ - **Hỗ Trợ**: Bạn quên chỉnh `enabled` thành `true`
+
+> _07:00_ - **Người Dùng**: Phải rồi ha. Tôi quên. Hoạt động được rồi. Cảm ơn nhé.
 
 Vấn đề ở đây là **Hỗ Trợ** có thể đang ngoại tuyến hoặc không có trên kênh khi **Người Dùng** nhắn tin đầu tiên, và mất `5 tiếng` để thấy tin đó. Nhưng họ không biết **Người Dùng** làm gì với dự án mà làm cho tính năng `không hoạt động`, nên họ đoán **Người Dùng** đã làm gì sai ở tệp cài đặt và yêu cầu **Người Dùng** gửi họ tệp tin đó. Rồi họ phải chờ thêm `1 tiếng` nữa để nhận được tệp tin, chỉ để thấy rằng **Người Dùng** quên bật tính năng đó. Tóm lại, **Hỗ Trợ** mất `6 tiếng` chỉ để hiểu vấn đề của **Người Dùng**.
 
 # Hãy
 
-```txt
-00:00 - Người Dùng: Xin chào. Tính năng này không hoạt động đối với tôi. Có cách nào để sửa không?
-00:30 - Người Dùng: Đây là tệp cài đặt của tôi: config.yml, features.yml, data.json
-05:00 - Hỗ Trợ: Bạn quên chỉnh `enabled` thành `true` ở tệp `config.yml`
-06:00 - Người Dùng: Phải rồi ha. Tôi quên. Hoạt động được rồi. Cảm ơn nhé.
-```
+> _00:00_ - **Người Dùng**: Xin chào. Tính năng này không hoạt động đối với tôi. Có cách nào để sửa không?
+
+> _00:30_ - **Người Dùng**: Đây là tệp cài đặt của tôi: config.yml, features.yml, data.json
+
+> _05:00_ - **Hỗ Trợ**: Bạn quên chỉnh `enabled` thành `true` ở tệp `config.yml`
+
+> _06:00_ - **Người Dùng**: Phải rồi ha. Tôi quên. Hoạt động được rồi. Cảm ơn nhé.
 
 Giờ **Hỗ Trợ** chỉ mất `5 tiếng` để hiểu và đưa ra giải pháp cho **Người Dùng**. Thời gian đã không bị lãng phí.
 
