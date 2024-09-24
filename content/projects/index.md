@@ -21,7 +21,7 @@ date: 2022-11-18 16:00:00
 
 # Personal
 
-> Some projects I made for fun
+> Projects I made for fun
 
 {{< showcase "MCServerUpdater" "A program to update Minecraft server jar" "https://avatars.githubusercontent.com/u/25300232" "https://github.com/HSGamer/MCServerUpdater" 3 >}}
 {{< showcase "BetterEconomy" "A simple Economy plugin" "https://avatars.githubusercontent.com/u/25300232" "https://github.com/HSGamer/BetterEconomy" 3 >}}
@@ -40,7 +40,7 @@ date: 2022-11-18 16:00:00
 
 # Recognition
 
-> Sites I published my works
+> Sites I published my works to
 
 {{< showcase "GitHub" "The largest code hosting platform" "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" "https://github.com/HSGamer" 3 >}}
 {{< showcase "SpigotMC" "The largest Minecraft server community" "https://static.spigotmc.org/img/spigot.png" "https://www.spigotmc.org/members/hsgamer.248240/" 3 >}}
