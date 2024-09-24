@@ -44,4 +44,4 @@ date: 2022-11-18 16:00:00
 
 {{< showcase "GitHub" "The largest code hosting platform" "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" "https://github.com/HSGamer" 3 >}}
 {{< showcase "SpigotMC" "The largest Minecraft server community" "https://static.spigotmc.org/img/spigot.png" "https://www.spigotmc.org/members/hsgamer.248240/" 3 >}}
-{{< showcase "MinecraftVN" "A Vietnamese forum for Minecraft servers" "https://minecraftvn.net/styles/io/io/images/logo.png" "https://minecraftvn.net/members/hsgamer.760/" 3 >}}
+{{< showcase "MinecraftVN" "A Vietnamese forum for Minecraft servers" "minecraftvn.png" "https://minecraftvn.net/members/hsgamer.760/" 3 >}}
