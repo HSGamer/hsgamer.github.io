@@ -17,6 +17,13 @@ app:
   iconColor: "#5bbad5"
   tileColor: "#da532c"
 
+author:
+  name: "HSGamer"
+  email: "huynhqtienvtag@gmail.com"
+  link: "https://github.com/HSGamer"
+  avatar: "/logo.svg"
+  gravatarEmail: ""
+
 search:
   enable: true
   type: "fuse"
