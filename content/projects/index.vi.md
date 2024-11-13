@@ -16,6 +16,7 @@ date: 2022-11-18 16:00:00
 > Dự án quá lớn để làm trong một dự án đơn / được làm bởi nhiều người
 
 {{< showcase "BetterGUI" "An animated menu, a simple menu-designing tool, or just a better GUI plugin" "https://raw.githubusercontent.com/BetterGUI-MC/.github/main/images/logo.svg" "https://github.com/BetterGUI-MC" 3 >}}
+{{< showcase "Topper" "A project / framework to handle single-value data tables" "https://topper-mc.github.io/Assets/topper/logo.svg" "https://github.com/Topper-MC/Topper" 3 >}}
 {{< showcase "GamesInTheBox" "Minigames in one region" "https://avatars.githubusercontent.com/u/121072237" "https://github.com/GamesInTheBox-MC" 3 >}}
 {{< showcase "FlexEGames" "A Minestom project to make a concept of \"minigame per instance\"" "https://avatars.githubusercontent.com/u/121995793" "https://github.com/FlexEGames" 3 >}}
 
@@ -26,7 +27,6 @@ date: 2022-11-18 16:00:00
 {{< showcase "MCServerUpdater" "A program to update Minecraft server jar" "https://avatars.githubusercontent.com/u/25300232" "https://github.com/HSGamer/MCServerUpdater" 3 >}}
 {{< showcase "BetterEconomy" "A simple Economy plugin" "https://avatars.githubusercontent.com/u/25300232" "https://github.com/HSGamer/BetterEconomy" 3 >}}
 {{< showcase "BetterBoard" "A simple scoreboard plugin that is not dummy" "https://avatars.githubusercontent.com/u/25300232" "https://github.com/HSGamer/BetterBoard" 3 >}}
-{{< showcase "Topper" "A project / framework to handle single-value data tables" "https://raw.githubusercontent.com/HSGamer/Topper/master/.github/logo.svg" "https://github.com/HSGamer/Topper" 3 >}}
 {{< showcase "BadAppleBoard" "Addon for BetterBoard to create Bad Apple on Scoreboard" "https://avatars.githubusercontent.com/u/25300232" "https://github.com/HSGamer/BadAppleBoard" 3 >}}
 {{< showcase "ConstructProjects" "A small repo to build projects with Github Actions" "https://avatars.githubusercontent.com/u/25300232" "https://github.com/HSGamer/ConstructProjects" 3 >}}
 
