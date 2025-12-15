@@ -35,7 +35,7 @@ jobs:
           submodules: recursive
 
       - name: Cache Hugo resources
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         env:
             cache-name: cache-hugo-resources
         with:
